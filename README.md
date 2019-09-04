@@ -1,0 +1,2 @@
+# KSPodSpecs
+my pod specs
